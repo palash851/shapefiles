@@ -15,3 +15,5 @@ You'll find a few different file types which can be used to make maps with diffe
 
 ## Disclaimer
 Though we have attempted to gather these files from the most reliable sources available, we do not guarantee their accuracy. You use these files at your own risk. 
+
+use geojson.io for editing
